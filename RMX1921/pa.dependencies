@@ -1,13 +1,13 @@
 [
     {
         "remote":       "github",
-        "repository":   "PA-RMX1921/android_device_realme_RMX1921",
+        "repository":   "saikrishnawanted/pa_device_realme_RMX1921",
         "target_path":  "device/realme/RMX1921",
         "revision":     "quartz"
     },
     {
         "remote":       "github",
-        "repository":   "PA-RMX1921/android_device_realme_sdm710-common",
+        "repository":   "saikrishnawanted/android_device_realme_sdm710-common",
         "target_path":  "device/realme/sdm710-common",
         "revision":     "quartz"
     },
@@ -15,13 +15,13 @@
         "remote":       "github",
         "repository":   "saikrishnawanted/android_kernel_realme_sdm710",
         "target_path":  "kernel/realme/sdm710",
-        "revision":     "xt"
+        "revision":     "pa_kernel"
     },
     {
         "remote":       "github",
-        "repository":   "kaderbava/proprietary_vendor_realme",
+        "repository":   "saikrishnawanted/proprietary_vendor_realme",
         "target_path":  "vendor/realme",
-        "revision":     "fix"
+        "revision":     "quartz"
     },
     {
         "remote":       "aospa",
@@ -52,5 +52,11 @@
         "repository":   "AOSPA/android_vendor_qcom_opensource_commonsys-intf_display",
         "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
         "revision":     "quartz"
+    }
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_frameworks_opt_net_wifi",
+        "target_path":  "frameworks/opt/net/wifi",
+        "revision":     "quartz-dev"
     }
 ]
