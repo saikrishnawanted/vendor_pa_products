@@ -3,19 +3,13 @@
         "remote":       "github",
         "repository":   "saikrishnawanted/pa_device_realme_RMX1921",
         "target_path":  "device/realme/RMX1921",
-        "revision":     "quartz"
+        "revision":     "quartz-rui"
     },
     {
         "remote":       "github",
-        "repository":   "saikrishnawanted/android_device_realme_sdm710-common",
-        "target_path":  "device/realme/sdm710-common",
-        "revision":     "quartz"
-    },
-    {
-        "remote":       "github",
-        "repository":   "saikrishnawanted/android_kernel_realme_sdm710",
-        "target_path":  "kernel/realme/sdm710",
-        "revision":     "pa_kernel"
+        "repository":   "saikrishnawanted/android_kernel_realme_RMX1921",
+        "target_path":  "kernel/realme/RMX1921",
+        "revision":     "new"
     },
     {
         "remote":       "github",
